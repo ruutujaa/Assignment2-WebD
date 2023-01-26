@@ -8,13 +8,13 @@ My Portfolio website
 Website created by using HTML and CSS for styling
 
 Tags used:
--headr
--nav
--favicon
--form
--images
--button
--hyperlink
+- headr
+- nav
+- favicon
+- form
+- images
+- button
+- hyperlink
 
 CSS properties used:
 - Used overflow-x property in css file.
